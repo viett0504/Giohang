@@ -1,0 +1,16 @@
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\bin\Debug\net8.0-windows\InterfaceUser.exe
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\bin\Debug\net8.0-windows\InterfaceUser.deps.json
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\bin\Debug\net8.0-windows\InterfaceUser.runtimeconfig.json
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\bin\Debug\net8.0-windows\InterfaceUser.dll
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\bin\Debug\net8.0-windows\InterfaceUser.pdb
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.csproj.GenerateResource.cache
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.AssemblyInfoInputs.cache
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.AssemblyInfo.cs
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.csproj.CoreCompileInputs.cache
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.dll
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\refint\InterfaceUser.dll
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.pdb
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.genruntimeconfig.cache
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\ref\InterfaceUser.dll
+C:\Users\doanhuy\source\repos\InterfaceUser\InterfaceUser\obj\Debug\net8.0-windows\InterfaceUser.Form1.resources
